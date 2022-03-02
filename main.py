@@ -2,7 +2,7 @@ import time
 from datetime import datetime
 
 start_time = datetime(datetime.now().year, datetime.now().month, datetime.now().day, 9)
-finish_time = datetime(datetime.now().year, datetime.now().month, datetime.now().day,20)
+finish_time = datetime(datetime.now().year, datetime.now().month, datetime.now().day,24)
 
 print(start_time)
 print(finish_time)
